@@ -3,7 +3,7 @@ This repo replicate the `diffussion` and `fat tail` income and wealth distributi
 
 The repository replicates in a simple, efficient and intuitive way the steady state. It is divided into two folders: **diffusion** and **fat_tail**. Each has the following structure: 
 
-- `1_Parameters.jl`: definition of the parameters
+- `1_Parameters.jl`: definition of the parameters.
 - `2_Steady_state.jl`: i) steady state, ii) partial equilibrium, iii) Fokker-Planck equation, v) updating of prices, and vi) individual solution of the value function.  
--  `3_Main.ipynb`: model solution
+-  `3_Main.ipynb`: model solution.
 
